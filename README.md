@@ -1,7 +1,7 @@
 # Rainfall Classification Model With Suitable Crop Prediction Using CNN
 
 In this project we tried to predict the rainfall using 3 different model
-- Linear regression
+- Linear Regression
 - SVR
 - CNN
 
